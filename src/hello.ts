@@ -1,2 +1,2 @@
 console.log("JND");
-Hello from typescrit
+Hello from typescritdnbdnbdjjdbdbjdbjd
